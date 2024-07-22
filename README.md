@@ -1,7 +1,7 @@
 # CHURN
 I took consumer dataset and tried to find key insights on what contributes to Churn and how can it be reduced?
 Methodology
-Firstly i uploaded the dataset to python and cleaned the dataset. Then, I uploaded the clean dataset into PostGreSql and analyzed the churn by different characteristics.
+Firstly i uploaded the dataset to python and cleaned the dataset. Then, I uploaded the clean dataset into PostGreSql and analyzed the churn by different characteristics and queries that you can find attached.( A lot more detailed queries in there and the logic that i applied)
 
 The key things I found:
 The most important thing to improve would be the support calls. Firstly, we would need to understand why are people calling for support is it the fact that the service is breaking down or the fact that it is too complicated to use. After we know this information we could move further. We could also appoint independent "fake" callers, so we would know that our  customer support is up to a companies expectations. Another thing we could do is dig deeper for payment delays. Is our pricing strategy correct or whether we need to improve payment methods and so on. Lastly, we need to imprement targeted retention for female customers
