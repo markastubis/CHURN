@@ -1,5 +1,6 @@
 # CHURN
-I took consumer dataset and tried to find key insights on what contributes to Churn and how can it be reduced?
+I took a random consumer dataset from kaggle and tried to find key insights on what contributes to Churn and how can it be reduced?
+As the dataset is large (22mb) It will not let me upload it here but you can find it on kaggle(https://www.kaggle.com/code/mostafahabibi1994/customer-churn-eda-part-1)
 Methodology
 Firstly i uploaded the dataset to python and cleaned the dataset. Then, I uploaded the clean dataset into PostGreSql and analyzed the churn by different characteristics and queries that you can find attached.( A lot more detailed queries in there and the logic that i applied)
 
